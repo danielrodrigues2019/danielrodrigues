@@ -3,7 +3,7 @@
 <h1 align="center">Olá! 👋, Sou o Daniel Rodrigues</h1>
 <h3 align="center">Desenvolvedor Front-end Júnior</h3>
 
-- 🌱 Estudando atualmente **React.JS e Vue.JS**
+- 🌱 Estudando atualmente **React.JS **
 
 - 📫 Você pode falar comigo pelo e-mail **danielrodrigues129@gmail.com**
 
