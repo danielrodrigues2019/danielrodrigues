@@ -5,6 +5,8 @@
 
 - 🌱 Estudando atualmente **React.JS **
 
+- 🎓 Formado em Gestão da Tecnologia da Informação - Faculdade de Tecnologia de Guaratinguetá
+
 - 📫 Você pode falar comigo pelo e-mail **danielrodrigues129@gmail.com**
 
 - 📄 Saiba mais das minhas experiências em [https://www.linkedin.com/in/daniel-rodrigues-11882092/](https://www.linkedin.com/in/daniel-rodrigues-11882092/)
