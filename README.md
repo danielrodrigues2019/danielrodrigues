@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrodrigues2019&label=Profile%20views&color=0ea9b4&style=flat" alt="danielrodrigues2019" /> </p>
 
-- 🌱 Estudando atualmente **React.JS **
 
 - 🎓 Formado em Gestão da Tecnologia da Informação - Faculdade de Tecnologia de Guaratinguetá
 
